@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+<a><img width="47.7%" src="https://github-readme-stats.vercel.app/api?username=douglasgardioli&show_icons=true&theme=tokyonight"></a>
+<a><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgardioli&layout=compact&theme=tokyonight"></a>
+
+<div style="display: inline-block">
+  <img width="40" height="30" alt="HTML5 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="40" height="30" alt="CSS3 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="40" height="30" alt="JavaScript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</div>
+
+##
+
+<div>
+  <a href="https://twitter.com/douglasgardioli" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</div>
+
 <!--
 **DouglasGardioli/douglasgardioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
