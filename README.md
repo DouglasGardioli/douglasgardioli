@@ -2,8 +2,8 @@
 
 Olá, meu nome é Douglas e estou estudando para me tornar desenvolvedor <strong>Front-End</strong>. Atualmente estou estudando <strong>HTML5</strong>,         <strong>CSS3</strong> e <strong>JavaScript</strong>.
 
-<a><img width="47.7%" src="https://github-readme-stats.vercel.app/api?username=douglasgardioli&show_icons=true&theme=tokyonight"></a>
-<a><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgardioli&layout=compact&theme=tokyonight"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=douglasgardioli&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgardioli&layout=compact&theme=tokyonight">
 
 <div style="display: inline-block">
   <img width="40" height="30" alt="HTML5 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
