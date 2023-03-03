@@ -10,7 +10,7 @@ Olá, meu nome é Douglas e estou estudando para me tornar desenvolvedor <strong
   <img width="40" height="30" alt="CSS3 icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="40" height="30" alt="JavaScript icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
-
+<!--
 ##
 
 <div>
@@ -21,7 +21,7 @@ Olá, meu nome é Douglas e estou estudando para me tornar desenvolvedor <strong
 
 </div>
 
-
+-->
 <!--
 **DouglasGardioli/douglasgardioli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
