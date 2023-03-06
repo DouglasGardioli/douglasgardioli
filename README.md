@@ -1,6 +1,6 @@
-### 👉 Quem sou eu?
+## 👉 Quem sou eu?
 
-Olá, meu nome é Douglas e estou estudando para me tornar desenvolvedor <strong>Front-End</strong>. Atualmente estou estudando <strong>HTML5</strong>,         <strong>CSS3</strong> e <strong>JavaScript</strong>.
+Olá, meu nome é **Douglas** e estou estudando para me tornar desenvolvedor **Front-End**. Atualmente estou estudando <strong>HTML5</strong>, **CSS3** e **JavaScript**.
 
 <img src="https://github-readme-stats.vercel.app/api?username=douglasgardioli&show_icons=true&theme=tokyonight">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasgardioli&layout=compact&theme=tokyonight">
